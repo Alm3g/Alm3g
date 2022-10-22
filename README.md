@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Java☕, Python🐲 and more...  
   
 
--  🎞️This is my favorite [Video](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
+-  🎞️ This is my favorite [Video](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
   
 
 - ⚡ Fun fact: I am a gamer  
