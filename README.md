@@ -2,7 +2,7 @@
 ### **<div align="center">I'm Almog, a student learning to program👨‍💻 🚀</div>**  
   
 
-- 🔭 I’m currently working on ([Android Project](https://github.com/Alm3g/FirstAndroidPrj.git))  
+- 🔭 I’m currently working on ([Android Project](https://github.com/Alm3g/MyBarber.git))  
   
 
 - 🌱 I’m currently learning Java☕, Python🐲 and more...  
